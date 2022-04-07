@@ -1,5 +1,5 @@
 MEMORY
 {
-    IMEM (rxw)       : ORIGIN = 0xA0000000, LENGTH = 0x40000
+    IMEM (rxw): ORIGIN = 0xA0000000, LENGTH = 0x40000
 }
 

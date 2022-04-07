@@ -22,7 +22,7 @@ main.o: main.c
 
 clean:
 	rm -f main.o
-	rm -f main.elf
-	rm -f main2.hex
-	rm -f main.hex
 	rm -f main.bin
+	rm -f main.elf
+	rm -f main.hex
+	rm -f main2.hex
